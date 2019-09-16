@@ -1,0 +1,11 @@
+{
+  "name": "namecheck",
+  "version": "1.0.0",
+  "dependencies": {
+    "line-by-line": "^0.1.6"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "request": "^2.88.0"
+  }
+}
